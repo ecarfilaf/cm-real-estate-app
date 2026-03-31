@@ -20,9 +20,9 @@ Project Library
 
 ### Screenshot
 
-![Home](https://raw.githubusercontent.com/ecarfilaf/cm-real-estate/refs/heads/master/public/screenshots/Home.png)
-![Profile](https://raw.githubusercontent.com/ecarfilaf/cm-real-estate/refs/heads/master/public/screenshots/Profile.png)
-![Postpage](https://raw.githubusercontent.com/ecarfilaf/cm-real-estate/refs/heads/master/public/screenshots/Postpage.png)
+![Home](https://raw.githubusercontent.com/ecarfilaf/cm-real-estate-app/refs/heads/master/frontend/public/screenshots/Home.png)
+![Profile](https://raw.githubusercontent.com/ecarfilaf/cm-real-estate-app/refs/heads/master/frontend/public/screenshots/Profile.png)
+![Postpage](https://raw.githubusercontent.com/ecarfilaf/cm-real-estate-app/refs/heads/master/frontend/public/screenshots/Postpage.png)
 
 ## Lessons Learned
 
@@ -43,4 +43,4 @@ Project Library
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Software Engineer...
